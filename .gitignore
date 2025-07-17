@@ -1,0 +1,11 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python caches and compiled files
+__pycache__/
+*.pyc
+
+# Environment and sensitive data
+.env
+*.csv
